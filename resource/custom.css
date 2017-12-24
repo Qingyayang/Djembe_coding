@@ -5,7 +5,7 @@
 
 
 .main-value-prop {
-  color: white !important;
+  color: white;
   font-weight: 500 !important;
   font-size: 3.6em !important;
   /* margin-top: -42px !important; */
@@ -13,7 +13,7 @@
 .secondary-value-prop{
   font-size: 1.4em !important;
   /* margin-top: 42px !important; */
-  color: #333 !important;
+  color: #000000 white;
 }
 
 
